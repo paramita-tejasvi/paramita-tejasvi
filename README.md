@@ -4,5 +4,4 @@ I'm Para, a recent Computer Engineering graduate from the National University of
 
 - 🌱 I’m currently working on Data Engineering
 - 👯 I’m looking to collaborate on anything interesting !
-- 😄 Pronouns: she/her
 
